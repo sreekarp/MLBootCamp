@@ -44,6 +44,5 @@ def gradientDescent(x, y, theta, alpha, num_iters):
         
     
 
-
 print(gradientDescent(x_train,y_train,theta,alpha, num_iters))
 
