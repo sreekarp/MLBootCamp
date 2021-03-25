@@ -34,7 +34,7 @@ def cost_function(x,y,theta):
 cost = cost_function(x_train,y_train,theta)
 print(cost)
 
-#definig gradient descent
+# defining gradient descent
 def gradientDescent(x, y, theta, alpha, num_iters):
     for i in range(num_iters):
         a = range(j)   
